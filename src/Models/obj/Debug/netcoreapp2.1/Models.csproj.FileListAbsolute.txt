@@ -1,0 +1,9 @@
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Models\bin\Debug\netcoreapp2.1\Models.dll
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Models\bin\Debug\netcoreapp2.1\Models.pdb
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Models\obj\Debug\netcoreapp2.1\Models.dll
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Models\obj\Debug\netcoreapp2.1\Models.pdb

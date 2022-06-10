@@ -1,0 +1,8 @@
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Common\bin\Debug\netcoreapp2.1\Common.dll
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Common\bin\Debug\netcoreapp2.1\Common.pdb
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Common\obj\Debug\netcoreapp2.1\Common.dll
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Common\obj\Debug\netcoreapp2.1\Common.pdb

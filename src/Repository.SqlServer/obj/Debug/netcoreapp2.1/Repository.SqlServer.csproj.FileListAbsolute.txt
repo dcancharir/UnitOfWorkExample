@@ -1,0 +1,14 @@
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\bin\Debug\netcoreapp2.1\Repository.SqlServer.deps.json
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\bin\Debug\netcoreapp2.1\Repository.SqlServer.dll
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\bin\Debug\netcoreapp2.1\Repository.SqlServer.pdb
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\bin\Debug\netcoreapp2.1\Models.dll
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\bin\Debug\netcoreapp2.1\Repository.Interfaces.dll
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\bin\Debug\netcoreapp2.1\Models.pdb
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\bin\Debug\netcoreapp2.1\Repository.Interfaces.pdb
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\obj\Debug\netcoreapp2.1\Repository.SqlServer.csprojAssemblyReference.cache
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\obj\Debug\netcoreapp2.1\Repository.SqlServer.csproj.CoreCompileInputs.cache
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\obj\Debug\netcoreapp2.1\Repository.SqlServer.AssemblyInfoInputs.cache
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\obj\Debug\netcoreapp2.1\Repository.SqlServer.AssemblyInfo.cs
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\obj\Debug\netcoreapp2.1\Repository.SqlServer.csproj.CopyComplete
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\obj\Debug\netcoreapp2.1\Repository.SqlServer.dll
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.SqlServer\obj\Debug\netcoreapp2.1\Repository.SqlServer.pdb

@@ -1,0 +1,12 @@
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\bin\Debug\netcoreapp2.1\Repository.Interfaces.deps.json
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\bin\Debug\netcoreapp2.1\Repository.Interfaces.dll
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\bin\Debug\netcoreapp2.1\Repository.Interfaces.pdb
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\bin\Debug\netcoreapp2.1\Models.dll
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\bin\Debug\netcoreapp2.1\Models.pdb
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\obj\Debug\netcoreapp2.1\Repository.Interfaces.csprojAssemblyReference.cache
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\obj\Debug\netcoreapp2.1\Repository.Interfaces.csproj.CoreCompileInputs.cache
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\obj\Debug\netcoreapp2.1\Repository.Interfaces.AssemblyInfoInputs.cache
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\obj\Debug\netcoreapp2.1\Repository.Interfaces.AssemblyInfo.cs
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\obj\Debug\netcoreapp2.1\Repository.Interfaces.csproj.CopyComplete
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\obj\Debug\netcoreapp2.1\Repository.Interfaces.dll
+F:\Tutos\AdoNetUnitOfWork\AdoNetUnitOfWorkSln\src\Repository.Interfaces\obj\Debug\netcoreapp2.1\Repository.Interfaces.pdb
